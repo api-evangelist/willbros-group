@@ -22,6 +22,8 @@ modified: '2026-05-03'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/willbros-group-inc
   - type: Website
     url: https://www.primoris.com
   - type: Features
