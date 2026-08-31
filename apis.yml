@@ -45,6 +45,11 @@ modified: '2026-05-03'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/primoris-services/
+    name: Primoris Services
+    x-relationship: acquired
+    x-evidence: "Willbros Group was acquired by Primoris Services in 2018 and no longer operates independently."
   - type: DomainSecurity
     url: security/willbros-group-domain-security.yml
   - type: LinkedIn
