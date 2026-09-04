@@ -32,7 +32,7 @@ description: >-
   operates independently. No public developer APIs are available for this organization.
 url: https://raw.githubusercontent.com/api-evangelist/willbros-group/refs/heads/main/apis.yml
 type: Index
-position: Consumer
+position: Consuming
 access: 3rd-Party
 tags:
   - Energy Infrastructure
