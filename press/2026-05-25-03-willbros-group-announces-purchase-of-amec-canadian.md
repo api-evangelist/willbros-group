@@ -1,7 +1,9 @@
 ---
 title: Willbros Group announces purchase of AMEC Canadian ...
 url: https://www.reuters.com/article/world/willbros-group-announces-purchase-of-amec-canadian-pipeline-contractor-midwest-m-idUSIN20070605172750WG/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Willbros Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

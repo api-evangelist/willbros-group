@@ -1,7 +1,9 @@
 ---
 title: Willbros Announces Management Changes
 url: https://www.prnewswire.com/news-releases/willbros-announces-management-changes-261088031.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Willbros Group" press release artificial intelligence'
 position: 1
 source: serpapi-google

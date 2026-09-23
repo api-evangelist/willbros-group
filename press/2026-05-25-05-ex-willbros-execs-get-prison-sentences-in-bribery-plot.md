@@ -1,7 +1,9 @@
 ---
 title: Ex-Willbros Execs Get Prison Sentences In Bribery Plot
 url: https://www.law360.com/texas/articles/146455/ex-willbros-execs-get-prison-sentences-in-bribery-plot
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Willbros Group" press release artificial intelligence'
 position: 5
 source: serpapi-google
