@@ -76,3 +76,9 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-status: acquired
+x-acquired-by: primoris-services
+x-parent: primoris-services
+x-acquired-date: '2018-06'
+x-status-source: "https://www.willbros.com/"
+x-status-evidence: "willbros.com redirects to www.prim.com, Primoris Services (probed 2026-10-03) (roadmap#812)"
